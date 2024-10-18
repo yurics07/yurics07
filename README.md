@@ -8,7 +8,7 @@ Meus principais pontos fortes incluem comprometimento, honestidade, capacidade d
 
 Estou animado para contribuir com uma equipe dinâmica e enfrentar novos desafios no mundo do desenvolvimento de sistemas. Vamos conectar e explorar oportunidades juntos!
 
-🔭 Estou aprendendo ló´gica de programação em java e programação com Arduino.
+🔭 Estou aprendendo lógica de programação em java e programação com Arduino.
 
 💬 Entre em contato comigo pelas redes sociais ou Linkedin, deixe sua mensagem se ouver alguma duvida.
 
