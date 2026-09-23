@@ -1,59 +1,106 @@
-<h1 align="center">Olá, eu sou o Yuri Cabral 👋</h1>
+<!-- Banner animado no topo -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Yuri%20Cabral&fontSize=70&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&animation=fadeIn" />
+</div>
 
-<p align="center">
-  <strong>Full-Stack Developer</strong> · Criciúma — SC, Brasil 🇧🇷
+<div align="center">
+
+### 💻 Full-Stack Developer · Criciúma — SC, Brasil 🇧🇷
+
+<p>
+  <a href="mailto:yuri.severino@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yuri.severino@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5548999355941">
+    <img src="https://img.shields.io/badge/WhatsApp-(48)%209935--5941-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Localiza%C3%A7%C3%A3o-Crici%C3%BAma%20%2F%20SC-ff6b35?style=flat-square" />
 </p>
 
-<p align="center">
-  📧 <a href="mailto:yuri.severino@gmail.com">yuri.severino@gmail.com</a> &nbsp;·&nbsp;
-  📱 <a href="https://wa.me/5548999355941">(+55) 48 9935-5941</a>
-</p>
+</div>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação, apaixonado por transformar ideias em experiências digitais.
+Sou um desenvolvedor em formação, apaixonado por transformar ideias em experiências digitais memoráveis. Estou construindo minha trajetória na programação desde 2022, sempre buscando aprender algo novo e evoluir a cada projeto.
 
 - 🎓 Cursando **Desenvolvimento de Sistemas** no **SENAI**
-- 💻 Estudando **Front-End**, **Back-End**, **Banco de Dados** e **Spring Boot**
-- 🌱 Atualmente aprendendo **Python**, **ESP32** e **Implantação de Sistemas**
-- 🎯 Objetivo: construir aplicações web, mobile e desktop de alto impacto
+- 💻 Foco em **desenvolvimento Full-Stack** (Front-End + Back-End)
+- 🌱 Atualmente estudando **Python**, **ESP32** e **Implantação de Sistemas**
+- 🎯 Objetivo: criar aplicações web, mobile e desktop de alto impacto
 - ☕ Movido a café e curiosidade
 
 ---
 
-## 🛠️ Especialidades
+## 🛠️ Minhas Especialidades
 
-**🎨 Front-End**
-HTML5 · CSS3 · JavaScript · React
+<div align="center">
 
-**⚙️ Back-End**
-Java · Spring Boot · Node.js · Python
+### 🎨 Front-End
+`HTML5` &nbsp; `CSS3` &nbsp; `JavaScript` &nbsp; `React`
 
-**🗄️ Banco de Dados**
-MySQL
+### ⚙️ Back-End
+`Java` &nbsp; `Spring Boot` &nbsp; `Node.js` &nbsp; `Python`
 
-**🔧 Ferramentas & Outros**
-Git · GitHub · Arduino · ESP32 · Figma · VS Code
+### 🗄️ Banco de Dados
+`MySQL`
 
----
+### 🔧 Ferramentas & Outros
+`Git` &nbsp; `GitHub` &nbsp; `Arduino` &nbsp; `ESP32` &nbsp; `Figma` &nbsp; `VS Code`
 
-## 📌 Projetos em destaque
-
-> 🚧 Portfólio em construção — os projetos serão publicados em breve.
+</div>
 
 ---
 
-## 📫 Como me encontrar
+## 📈 Minha Jornada
 
-📧 **Email:** yuri.severino@gmail.com
+| Ano | Marco |
+|:---:|---|
+| **2022** | Primeiro contato com programação (Arduino) |
+| **2024** | Ingresso no SENAI — fundamentos e lógica |
+| **2025** | Front-End, Back-End, Banco de Dados e Spring Boot |
+| **2026** | Python, ESP32 e Implantação de Sistemas |
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YuriCabral&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCabral&layout=compact&theme=radical&langs_count=8&border_radius=12)
+
+</div>
+
+---
+
+## 📌 Projetos em Destaque
+
+> 🚧 **Portfólio em construção** — os projetos serão publicados em breve.
+>
+> Enquanto isso, fique à vontade para explorar meus repositórios!
+
+---
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+📧 **Email:** [yuri.severino@gmail.com](mailto:yuri.severino@gmail.com) &nbsp;·&nbsp;
 📱 **WhatsApp:** [(+55) 48 9935-5941](https://wa.me/5548999355941)
-📍 **Localização:** Criciúma — SC, Brasil
-💼 **Disponibilidade:** Aberto a novos projetos
+
+💼 **Aberto a novos projetos e oportunidades**
+
+</div>
 
 ---
 
-<p align="center">
-  Feito com <strong>❤️</strong> e muito <strong>☕</strong> por <strong>Yuri Cabral</strong>
-</p>
+<div align="center">
+
+### ⭐ Se curtiu algum projeto, deixa uma estrela!
+
+Feito com **❤️** e muito **☕** por **Yuri Cabral**
+
+</div>
