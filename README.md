@@ -21,46 +21,21 @@ Sou um desenvolvedor em formação, apaixonado por transformar ideias em experi�
 - 🎯 Objetivo: construir aplicações web, mobile e desktop de alto impacto
 - ☕ Movido a café e curiosidade
 
-> _"Não é porque vocês estão de férias que podem parar de praticar."_
-> — meu professor do SENAI
-
 ---
 
 ## 🛠️ Especialidades
 
-### 🎨 Front-End
+**🎨 Front-End**
+HTML5 · CSS3 · JavaScript · React
 
-| Tecnologia | Nível |
-|---|---|
-| HTML5 | Avançado |
-| CSS3 | Avançado |
-| JavaScript | Intermediário |
-| React | Iniciante |
+**⚙️ Back-End**
+Java · Spring Boot · Node.js · Python
 
-### ⚙️ Back-End
+**🗄️ Banco de Dados**
+MySQL
 
-| Tecnologia | Nível |
-|---|---|
-| Java | Intermediário |
-| Spring Boot | Intermediário |
-| Node.js | Iniciante |
-| Python | Iniciante |
-
-### 🗄️ Banco de Dados
-
-| Tecnologia | Nível |
-|---|---|
-| MySQL | Intermediário |
-
-### 🔧 Ferramentas & Outros
-
-| Ferramenta | Uso |
-|---|---|
-| Git & GitHub | Versionamento de código |
-| Arduino | Eletrônica e automação |
-| ESP32 | IoT e sistemas embarcados |
-| Figma | Prototipação de interfaces |
-| VS Code | Ambiente de desenvolvimento |
+**🔧 Ferramentas & Outros**
+Git · GitHub · Arduino · ESP32 · Figma · VS Code
 
 ---
 
@@ -72,12 +47,10 @@ Sou um desenvolvedor em formação, apaixonado por transformar ideias em experi�
 
 ## 📫 Como me encontrar
 
-| Canal | Contato |
-|---|---|
-| 📧 Email | yuri.severino@gmail.com |
-| 📱 WhatsApp | [(+55) 48 9935-5941](https://wa.me/5548999355941) |
-| 📍 Localização | Criciúma — SC, Brasil |
-| 💼 Disponibilidade | Aberto a novos projetos |
+📧 **Email:** yuri.severino@gmail.com
+📱 **WhatsApp:** [(+55) 48 9935-5941](https://wa.me/5548999355941)
+📍 **Localização:** Criciúma — SC, Brasil
+💼 **Disponibilidade:** Aberto a novos projetos
 
 ---
 
