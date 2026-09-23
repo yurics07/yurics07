@@ -64,13 +64,6 @@ Sou um desenvolvedor em formação, apaixonado por transformar ideias em experi�
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=YuriCabral&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12&hide_border=false)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriCabral&layout=compact&theme=radical&langs_count=8&border_radius=12)
 
 </div>
 
